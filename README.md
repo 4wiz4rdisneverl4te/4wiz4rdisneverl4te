@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4wiz4rdisneverlate.
-- 👀 I’m interested in a little of all.
-- 🌱 I’m currently learning Python again, SQL again, Docker again, Git again, Linux again, Ubuntu again and many things again...  
+- 👀 I'm interested in everything that exist in the universe.
+- 🌱 I’m currently learning Python again, SQL again, Docker again, Git again, Linux again, Ubuntu again and many otherts things again...  
 - 💞️ I’m looking to collaborate on simple projects in Python.
 - 📫 How to reach me... well, by here.
 
